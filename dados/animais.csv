@@ -1,0 +1,4 @@
+id_animal,nome,especie,idade,tipo_alimentacao,recinto,status_saude,tipo,extra
+1,Leão,Panthera leo,8,Carnívoro,Recinto 01,Saudável,Mamifero,Pelos curtos
+2,Arara-azul,Anodorhynchus hyacinthinus,5,Herbívoro,Recinto 02,Saudável,Ave,Sim
+3,Jiboia,Boa constrictor,4,Carnívoro,Recinto 03,Saudável,Reptil,Não

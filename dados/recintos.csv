@@ -1,0 +1,4 @@
+id_recinto,nome,tipo,capacidade,localizacao,status_limpeza
+1,Recinto 01,Jaula,5,Ala Norte,Limpo
+2,Recinto 02,Viveiro,10,Ala Sul,Limpo
+3,Recinto 03,Terrário,4,Ala Leste,Sujo
